@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+/* #05386b blue*/
+/* #edf5e1 almost white */
+body{
+  background-color: #5cdb95 !important;
+}
+.qrStyle{
+  border: 2px solid #05386b !important;
+  max-width: 15.143rem !important;
+  max-height: 15.143rem !important;
+}
+.button:hover{
+  color:#edf5e1 !important;
+  border-color: #05386b !important;
+  background-color: #05386b !important;
+}
+
+.button{
+  color:#05386b !important;
+  border-color: #edf5e1 !important;
+  background-color: #edf5e1 !important;
+}
+.btn:focus{
+  margin-left: 2px !important;
+}
+.button:focus{
+  box-shadow: 0 0 0 0.1rem #05386b !important;
+}
+
+h1{
+  color: #05386b;
+}
+
+#basic-addon1{
+  color: #05386b !important;
+}
+
+.form-control {
+  flex: 0 1 !important;
+  min-width: 50% !important;
+}
+
+.form-control:focus {
+  border-color:  #5cdb95 !important;
+  box-shadow: 0 0 0 0.1rem #70b1f3 !important;
+}
