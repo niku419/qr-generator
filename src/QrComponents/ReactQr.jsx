@@ -47,7 +47,7 @@ function Qr() {
 						<Nav.Link>made for Hiku<FontAwesomeIcon color="#8d0101" icon={faHeart} /></Nav.Link>
 					</Nav> */}
 				</Form>
-		</Navbar>
+			</Navbar>
 		</Container>
 	</Container>
 	)
