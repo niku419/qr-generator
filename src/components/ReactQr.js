@@ -3,7 +3,7 @@ import '../App.css'
 import qrCode from 'qrcode'
 import { Jumbotron, Container, InputGroup, FormControl, Button, Image, Navbar, Nav, Form} from "react-bootstrap";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHeart } from '@fortawesome/free-solid-svg-icons'
+//import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import { faInstagram, faGithub, faFacebookF, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
 
 function Qr() {
