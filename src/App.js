@@ -1,5 +1,5 @@
 import React from 'react';
-import Qr from './components/ReactQr'
+import Qr from './QrComponents/ReactQr'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
